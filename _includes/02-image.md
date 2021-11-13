@@ -1,1 +1,1 @@
-![](Naruto.jpg) 
+![](Naruto.png) 
