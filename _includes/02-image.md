@@ -1,1 +1,1 @@
-![Me and my sweety mom] (file:///home/akash/Downloads/IMG-20211108-WA0021.jpg) 
+![Me and my sweety mom] (https://photos.google.com/photo/AF1QipPuEp5_FzFnAb1QRcrqO0xWSUc-CcguHYlwcGri) 
