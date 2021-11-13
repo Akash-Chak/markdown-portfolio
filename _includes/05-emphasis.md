@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a junior *Data Scientist* as of now
+I am trying to get _fit_ in the industry so I am learnig skills like _python_,_java_
+_I hope I can find a great oppurtunity to serve my *purpose* with *excelence*._
+*Thank you*
